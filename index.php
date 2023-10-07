@@ -14,6 +14,7 @@
     <h1>Hello, world! clone add p, add 14</h1>
 
     <a href="page.php"> Page </a>
+      <a href="page2.php"> Page 2 </a>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
