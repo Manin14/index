@@ -13,6 +13,8 @@
   <body>
     <h1>Hello, world! clone add p, add 14</h1>
 
+    <a href="page.php"> Page </a>
+
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
